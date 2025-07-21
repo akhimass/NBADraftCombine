@@ -1,6 +1,6 @@
 # 🏀 Draft Combine Analytics
 
-Welcome to the **Draft Combine Analytics** project — a data-driven pipeline that analyzes NBA Draft Combine metrics to identify traits that predict future player success, injury risk, and career archetypes.
+Welcome to the ** NBA Draft Combine Analytics** project — a data-driven pipeline that analyzes NBA Draft Combine metrics to identify traits that predict future player success, injury risk, and career archetypes.
 
 ## 📌 Project Overview
 
